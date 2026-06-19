@@ -1,0 +1,9 @@
+function sendMessage() {
+   let text = input.value;
+
+   addUserMessage(text);
+
+   setTimeout(()=>{
+      addAIMessage("Hello! I am Muzammil AI.");
+   },1000);
+}
