@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="sidebar">
+        <h2>Muzammil AI</h2>
+        <button>+ New Chat</button>
+    </div>
+
+    <div class="chat-area">
+        <div id="messages"></div>
+
+        <div class="input-box">
+            <input type="text" placeholder="Message Muzammil AI...">
+            <button>Send</button>
+        </div>
+    </div>
+</div>
